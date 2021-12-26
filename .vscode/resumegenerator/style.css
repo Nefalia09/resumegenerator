@@ -1,0 +1,14 @@
+
+.myimg{
+    /* border: 1px solid red; */
+    border-radius: 50%;
+    width: 200px;
+
+
+}
+.background{
+    background-color: rgb(221, 191, 191);
+}
+.backgroundo{
+    background-color: rgb(157, 166, 179);
+}
